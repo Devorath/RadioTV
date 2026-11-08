@@ -47,8 +47,8 @@ La aplicación no incluye registro de usuarios. Para este ejercicio se utiliza l
 
 | Campo | Valor |
 |---|---|
-| Usuario | `estudiante` |
-| Contraseña | `RadioTV2026` |
+| Usuario | `USUARIO` |
+| Contraseña | `CONTRASEÑA` |
 
 Si los datos son incorrectos, aparece un mensaje en la pantalla de inicio de sesión. Al entrar correctamente se guarda una marca de sesión en Keychain; no se guarda la contraseña en UserDefaults.
 
