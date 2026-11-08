@@ -6,8 +6,8 @@ struct AuthManager {
 
     // MARK: - Credenciales del ejercicio
 
-    private let usuarioValido = "estudiante"
-    private let contrasenaValida = "RadioTV2026"
+    private let usuarioValido = "USUARIO"
+    private let contrasenaValida = "CONTRASEÑA"
 
     // MARK: - Validar acceso
 
